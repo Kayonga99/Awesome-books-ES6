@@ -1,5 +1,5 @@
-import BooksdataBase from './Modules/BookdataBaseClass.js';
-import pageNav from './Modules/nav.js';
+import BooksdataBase from './Modules/BooksdataBaseClass.js';
+import pageNav from './Modules/navigate.js';
 
 const date = document.getElementById('date');
 
