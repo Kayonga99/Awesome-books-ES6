@@ -1,3 +1,4 @@
+/*eslint-disable*/
 import Book from './BookClass.js';
 
 const bookTitle = document.querySelector('#bookName');
